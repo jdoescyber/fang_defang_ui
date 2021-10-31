@@ -24,7 +24,7 @@ Without their contributions to `ioc_fanger`, this project would have been much h
 
 ### Windows Binary
 
-~~A Windows binary is available as a [Release](https://github.com/jdoescyber/fang_defang_ui/releases). ~~
+(There's an issue with the Windows binary, removing temporarily)
 
 ## Feedback
 
