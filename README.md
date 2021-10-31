@@ -14,15 +14,17 @@ Without their contributions to `ioc_fanger`, this project would have been much h
 
 ## Usage
 
+### From Source
+
 1. Ensure you have Python 3 installed. I developed with Python 3.10, but I imagine it will run on other Python 3.x versions.
 2. Clone the repo: `git clone https://github.com/jdoescyber/fang_defang_ui` or download the repo as a zip.
 3. Install dependencies: `pip install -r requirements.txt` or manually `pip install ioc_fanger`.
   * May need to use `pip3`
 4. Launch the GUI: `python fang_defang.py` or `python3 fang_defang.py`.
 
-## Future Changes
+### Windows Binary
 
-In the future, I may work on bundling the entire project as an executable, at least for Windows.
+A Windows binary is available as a [Release](https://github.com/jdoescyber/fang_defang_ui/releases). 
 
 ## Feedback
 
