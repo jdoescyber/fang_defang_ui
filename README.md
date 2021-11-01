@@ -12,6 +12,11 @@ As of 2021-10-30, the listed contributors are:
 
 Without their contributions to `ioc_fanger`, this project would have been much harder or not even written. Please consider supporting them.
 
+![A screenshot of the GUI app](https://i.imgur.com/uSXKvzp.png)
+
+Takes IOCs that are fanged in various different ways.
+![A gif showing the fanging and defanging process](https://i.imgur.com/onSd7CR.gif)
+
 ## Usage
 
 ### From Source
